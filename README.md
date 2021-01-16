@@ -1,4 +1,4 @@
-# Project - Interactive-Tags-Manipulation
+# Project - Interactive Downloads Sessions Manipulation
 An interface that allows interactive manipulation of tagging objects for download sessions and creates selections based on tags in the download sessions.
 
 
