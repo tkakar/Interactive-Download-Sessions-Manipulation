@@ -3,11 +3,11 @@ An interface that allows interactive manipulation of tagging objects for downloa
 
 
 ## Data Description
- * "Download sessions" represent testing data downloads on mobile networks all over the world and has a size, a duration (time), and list of tags.
- * "Selections" allow to monitor download sessions with certain tags in real-time and contain a list of tags.
+ * **Download sessions** represent testing data downloads on mobile networks all over the world and has a size, a duration (time), and list of tags.
+ * **Selections** allow to monitor download sessions with certain tags in real-time and contain a list of tags.
 
 
-## Tasks Supported by UI
+## Supported Tasks and Interactions
 
 
 The interface show allow performing the following actions.
